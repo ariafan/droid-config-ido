@@ -5,6 +5,7 @@ Description: Pattern with packages for ido HW Adaptation
 Name: jolla-hw-adaptation-ido
 Requires:
 - droid-hal-ido
+- droid-hal-ido-detritus
 - droid-hal-ido-img-boot
 - droid-hal-ido-kernel-modules
 - droid-config-ido-sailfish
